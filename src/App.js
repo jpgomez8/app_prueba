@@ -11,7 +11,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        {/*<Welcome message='Wena wena mi gente' name='Jose Perez'></Welcome>*/}
+        {<Welcome message='Wena wena mi gente' name='Jose Perez'></Welcome>}
         <Router>
           <div>
             <ul>
